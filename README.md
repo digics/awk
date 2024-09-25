@@ -5,13 +5,8 @@ Public
 
 ## Summary
 
-uid v1.0 + hid 1.0
+uid v1.0 is the user level library for generating an unique strings
 
-uid v1.0 is a library 
-
-hid v1.0
-
-...
 
 
 
