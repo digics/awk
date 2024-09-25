@@ -5,7 +5,7 @@ Public
 
 ## Summary
 
-uid v1.0 is the user level library for generating an unique strings
+uid v1.0 is the awk user level library for generating an unique strings
 
 
 
